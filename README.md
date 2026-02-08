@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WhatsApp-Based Business Operating System for MSMEs
 
 A comprehensive business management platform designed for Micro, Small, and Medium Enterprises (MSMEs) with AI automation, smart order processing, invoice generation, and customer management via WhatsApp.
@@ -255,3 +256,7 @@ For questions or issues, please open a GitHub issue.
 ---
 
 Built with ❤️ for MSME Businesses
+=======
+# whatsapp-bussiness-automation
+A comprehensive business management platform designed for Micro, Small, and Medium Enterprises (MSMEs) with AI automation, smart order processing, invoice generation, and customer management via WhatsApp.
+>>>>>>> 4ba9c708f6167b637c6b907eca08942ce7f1e095
